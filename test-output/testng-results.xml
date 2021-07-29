@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-29T08:42:48 PDT" name="Default suite" finished-at="2021-07-29T08:43:44 PDT" duration-ms="55230">
+    <groups>
+    </groups>
+    <test started-at="2021-07-29T08:42:48 PDT" name="Default test" finished-at="2021-07-29T08:43:44 PDT" duration-ms="55230">
+      <class name="WebTesting.TestDemo">
+        <test-method is-config="true" signature="dateSetup()[pri:0, instance:WebTesting.TestDemo@41fbdac4]" started-at="2021-07-29T08:42:48 PDT" name="dateSetup" finished-at="2021-07-29T08:42:54 PDT" duration-ms="5544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateSetup -->
+        <test-method is-config="true" signature="login()[pri:0, instance:WebTesting.TestDemo@41fbdac4]" started-at="2021-07-29T08:42:54 PDT" name="login" finished-at="2021-07-29T08:43:02 PDT" duration-ms="7516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="testOne()[pri:1, instance:WebTesting.TestDemo@41fbdac4]" started-at="2021-07-29T08:43:02 PDT" name="testOne" description="Click on Sessions" finished-at="2021-07-29T08:43:10 PDT" duration-ms="8207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method signature="testTwo()[pri:2, instance:WebTesting.TestDemo@41fbdac4]" started-at="2021-07-29T08:43:10 PDT" name="testTwo" description="Click on Partner show case" finished-at="2021-07-29T08:43:18 PDT" duration-ms="8199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method signature="testThree()[pri:3, instance:WebTesting.TestDemo@41fbdac4]" started-at="2021-07-29T08:43:18 PDT" name="testThree" description="Click on Resources" finished-at="2021-07-29T08:43:26 PDT" duration-ms="8272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method signature="testFour()[pri:4, instance:WebTesting.TestDemo@41fbdac4]" started-at="2021-07-29T08:43:26 PDT" name="testFour" description="Click on Ask experts" finished-at="2021-07-29T08:43:35 PDT" duration-ms="8276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+        <test-method signature="testFive()[pri:5, instance:WebTesting.TestDemo@41fbdac4]" started-at="2021-07-29T08:43:35 PDT" name="testFive" description="Click on General Sessions" finished-at="2021-07-29T08:43:43 PDT" duration-ms="8243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFive -->
+        <test-method is-config="true" signature="Terminate()[pri:0, instance:WebTesting.TestDemo@41fbdac4]" started-at="2021-07-29T08:43:43 PDT" name="Terminate" finished-at="2021-07-29T08:43:44 PDT" duration-ms="913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Terminate -->
+      </class> <!-- WebTesting.TestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
